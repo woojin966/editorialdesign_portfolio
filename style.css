@@ -5,15 +5,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;400;600;900&display=swap");
 @font-face {
   font-family: "sandol neo M";
-  src: url("/font/AppleSDGothicNeoM.ttf");
+  src: url("../font/AppleSDGothicNeoM.ttf");
 }
 @font-face {
   font-family: "sandol neo B";
-  src: url("/font/AppleSDGothicNeoB.ttf");
+  src: url("../font/AppleSDGothicNeoB.ttf");
 }
 @font-face {
   font-family: "SB Eogro M";
-  src: url("/font/SB\ 어그로OTF\ M.otf");
+  src: url("../font/SB\ 어그로OTF\ M.otf");
 }
 
 /* reset */
