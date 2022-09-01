@@ -39,6 +39,7 @@ body {
   min-width: 1800px;
   height: 100vh;
   min-height: 937px;
+  overflow-x: hidden;
 }
 header {
   width: 100%;
